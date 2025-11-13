@@ -1,2 +1,0 @@
-# nixtar.com
-First project
